@@ -1,0 +1,17 @@
+canvas {  
+  border-left: 250px  solid #dc9400;
+  border-top: 250px  solid #dc9400;
+  border-right: 250px  solid #dc9400;
+  border-bottom: 250px solid #dc9400;
+}
+
+body {
+display: flex ;
+
+}
+
+
+
+image {
+justify-content: center;
+}
